@@ -1,4 +1,4 @@
-# Nultithreaded camera frame reading
+# Multithreaded camera frame reading
 
 Script to read frames from the camera using multithreading Python. 
 
